@@ -1,0 +1,24 @@
+html,body,.container{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+ .container{
+     width: 100%;
+     height: 100%;
+ }
+ /* .add-clss{
+     width: 200px;
+     height: 200px;
+     background-color: red;
+ }
+ .remove-clss{
+     width: 300px;
+     height: 300px;
+     backgrod-color: aqua;
+ } */
+ .add-clss{
+     width: 100%;
+ }
